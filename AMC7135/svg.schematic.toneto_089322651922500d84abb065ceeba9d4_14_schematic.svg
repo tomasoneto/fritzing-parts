@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" x="0in" viewBox="0 0 22.86 25.4" y="0in" width="0.9in"  id="svg32" height="1in" gorn="0">
+    <desc >
+        <referenceFile >AMC7135_schematic.svg</referenceFile>
+    </desc>
+    <g  id="schematic" gorn="0.1">
+        <rect style="stroke-linecap:round" x="0.15875" stroke-width="0.3175" fill="#ffffff" y="5.23875" width="17.4625"  id="rect2" height="14.9225" class="interior rect" stroke="#000000" gorn="0.1.0"/>
+        <line style="stroke-linecap:round" y2="12.7" x2="22.7365" stroke-width="0.246944" fill="none" x1="17.6565" y1="12.7"  id="connector0pin" class="pin" stroke="#787878" gorn="0.1.1"/>
+        <text style="font-family:Droid Sans;text-anchor:end;" x="17.1626" stroke-width="0" fill="#8c8c8c" y="12.9469"  id="text5" class="text" stroke="none" font-size="0.348465" gorn="0.1.2">OUT</text>
+        <rect x="22.7365" stroke-width="0" fill="none" y="12.5765" width="0.246944"  id="connector0terminal" height="0.246944" class="terminal" stroke="none" gorn="0.1.3"/>
+        <line style="stroke-linecap:round" y2="25.276501" x2="7.6199999" stroke-width="0.246944" fill="none" x1="7.6199999" y1="20.196501"  id="connector2pin" class="pin" stroke="#787878" gorn="0.1.4"/>
+        <g transform="translate(7.86694,19.7026)" >
+            <g >
+                <g >
+                    <g >
+                        <g  id="g13" gorn="0.1.5.0.0.0.0">
+                            <g transform="rotate(-90)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g  id="g11" gorn="0.1.5.0.0.0.0.0.0.0.0.0">
+                                                <text style="font-family:Droid Sans;text-anchor:start;" x="0" stroke-width="0" fill="#8c8c8c" y="0"  id="text9" class="text" stroke="none" font-size="0.348465" gorn="0.1.5.0.0.0.0.0.0.0.0.0.0">GND</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect x="7.4965301" stroke-width="0" fill="none" y="25.276501" width="0.246944"  id="connector2terminal" height="0.246944" class="terminal" stroke="none" gorn="0.1.6"/>
+        <line style="stroke-linecap:round" y2="5.2034702" x2="7.6199999" stroke-width="0.246944" fill="none" x1="7.6199999" y1="0.123472"  id="connector1pin" class="pin" stroke="#787878" gorn="0.1.7"/>
+        <g transform="translate(7.86694,5.69736)" >
+            <g >
+                <g >
+                    <g >
+                        <g  id="g21" gorn="0.1.8.0.0.0.0">
+                            <g transform="rotate(-90)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g  id="g19" gorn="0.1.8.0.0.0.0.0.0.0.0.0">
+                                                <text style="font-family:Droid Sans;text-anchor:end;" x="0" stroke-width="0" fill="#8c8c8c" y="0"  id="text17" class="text" stroke="none" font-size="0.348465" gorn="0.1.8.0.0.0.0.0.0.0.0.0.0">VDD</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect x="7.4965301" stroke-width="0" fill="none" y="-0.123472" width="0.246944"  id="connector1terminal" height="0.246944" class="terminal" stroke="none" gorn="0.1.9"/>
+        <text style="font-family:Droid Sans;text-anchor:middle;" x="8.9500303" stroke-width="0" fill="#000000" y="13.24577"  id="text29" class="text" stroke="none" font-size="0.423139" gorn="0.1.10">AMC7135</text>
+    </g>
+</svg>
