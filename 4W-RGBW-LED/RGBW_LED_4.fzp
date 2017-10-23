@@ -27,12 +27,12 @@
       </layers>
     </iconView>
     <breadboardView>
-      <layers image="breadboard/LED-5mm-blue_breadboard.svg">
+      <layers image="breadboard/RGBW_LED_4_breadboard.svg">
         <layer layerId="breadboard"/>
       </layers>
     </breadboardView>
     <schematicView>
-      <layers image="schematic/led.svg">
+      <layers image="schematic/RGBW_LED_4_schematic.svg">
         <layer layerId="schematic"/>
       </layers>
     </schematicView>
@@ -45,15 +45,125 @@
   </views>
 
   <connectors>
+
     <connector type="male" id="connector1" name="G+">
       <description>G+</description>
       <views>
         <breadboardView>
           <p svgId="connector1pin" layer="breadboard"/>
         </breadboardView>
+        <schematicView>
+          <p svgId="connector1pin" layer="schematic"/>
+        </schematicView>
         <pcbView>
           <p svgId="connector1pad" layer="copper1"/>
         </pcbView>
       </views>
     </connector>
+
+    <connector type="male" id="connector2" name="G+">
+      <description>W+</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector2pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector2pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector2pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+
+    <connector type="male" id="connector3" name="G+">
+      <description>R+</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector3pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector3pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector3pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+
+    <connector type="male" id="connector4" name="G+">
+      <description>B+</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector4pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector4pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector4pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+
+    <connector type="male" id="connector5" name="G+">
+      <description>B-</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector5pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector5pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector5pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+
+    <connector type="male" id="connector6" name="G+">
+      <description>R-</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector6pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector6pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector6pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+
+    <connector type="male" id="connector7" name="G+">
+      <description>W-</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector7pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector7pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector7pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+
+    <connector type="male" id="connector8" name="G+">
+      <description>G-</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector8pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector8pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector8pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+
   </connectors>
