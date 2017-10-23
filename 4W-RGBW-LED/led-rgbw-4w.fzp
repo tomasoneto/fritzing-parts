@@ -22,12 +22,12 @@
 
   <views>
     <iconView>
-      <layers image="icon/LED-RGBW-4Wicon.svg">
+      <layers image="icon/RGBW_LED_4_icon.svg">
         <layer layerId="icon"/>
       </layers>
     </iconView>
     <breadboardView>
-      <layers image="breadboard/LED-5mm-blue.svg">
+      <layers image="breadboard/LED-5mm-blue_breadboard.svg">
         <layer layerId="breadboard"/>
       </layers>
     </breadboardView>
@@ -37,7 +37,7 @@
       </layers>
     </schematicView>
     <pcbView>
-      <layers image="pcb/LED-RGBW-4Wpcb.svg">
+      <layers image="pcb/RGBW_LED_4_pcb.svg">
         <layer layerId="copper1"/>
         <layer layerId="silkscreen"/>
       </layers>
@@ -49,10 +49,10 @@
       <description>G+</description>
       <views>
         <breadboardView>
-          <p svgId="connector1pin" layer="breadboard" terminalId="connector1terminal"/>
+          <p svgId="connector1pin" layer="breadboard"/>
         </breadboardView>
         <pcbView>
-          <p svgId="connector1pad" layer="copper1" terminalId="connector1terminal"/>
+          <p svgId="connector1pad" layer="copper1"/>
         </pcbView>
       </views>
     </connector>
