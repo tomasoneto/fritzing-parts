@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	version="1.2"
+	id="Layer_1"
+	x="0px"
+	y="0px"
+	width="57.643px"
+	height="71.833px"
+	viewBox="0 0 57.643 71.833"
+	xml:space="preserve"
+	sodipodi:docname="svg.schematic.toneto_61060a74a59c5ba7541525148afea07c_1_schematic.svg"
+	inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+	<metadata id="metadata111">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title></dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata><defs id="defs109"/><sodipodi:namedview
+		pagecolor="#ffffff"
+		bordercolor="#666666"
+		borderopacity="1"
+		objecttolerance="10"
+		gridtolerance="10"
+		guidetolerance="10"
+		inkscape:pageopacity="0"
+		inkscape:pageshadow="2"
+		inkscape:window-width="670"
+		inkscape:window-height="480"
+		id="namedview107"
+		showgrid="false"
+		inkscape:zoom="3.0037309"
+		inkscape:cx="34.671485"
+		inkscape:cy="41.477637"
+		inkscape:window-x="0"
+		inkscape:window-y="0"
+		inkscape:window-maximized="0"
+		inkscape:current-layer="pin_numbers"/>
+	<g id="background"><rect x="-28.625" y="-21.614" width="122.108" height="122.062" id="rect2" style="fill:#f2f2f2"/></g>
+	<g id="schematic"><rect id="part_symbol" x="7.1150441" y="7.1150441" width="43.368912" height="37.759102" style="fill:#ffffff;stroke:#000000;stroke-width:0.73028904;stroke-linecap:round"/>
+		<g id="pins">
+			<g id="g26" transform="translate(0,-20)">
+				<line x1="28.799999" y1="64.799004" x2="28.799999" y2="72" id="connector2pin" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+			</g>
+			<g id="g38">
+				<line x1="28.799999" y1="7.2010002" x2="28.799999" y2="0" id="connector3pin" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+			</g>
+			<g id="g46" transform="translate(0,-2)">
+				<line x1="50.401001" y1="21.6" x2="57.599998" y2="21.604" id="connector1pin" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+			</g>
+		</g>
+		<g id="pin_numbers">
+			<text font-size="3" id="text49" style="font-size:3px;font-family:DroidSans;fill:#555555" x="53.310799" y="18.154301">1</text>
+			<text transform="translate(30.1624,3.873)" font-size="3" id="text55" style="font-size:3px;font-family:DroidSans;fill:#555555">3</text>
+			<text font-size="3" id="text57" style="font-size:3px;font-family:DroidSans;fill:#555555" x="30.162399" y="49.109901">2</text>
+		</g>
+		<g id="pin_labels"><g id="g76"/>
+			<text font-size="4.5" id="text78" style="font-size:4.5px;font-family:DroidSans;fill:#555555" x="24.6106" y="42.484901">Gnd</text>
+			<text transform="translate(25.512,12.5352)" font-size="4.5" id="text80" style="font-size:4.5px;font-family:DroidSans;fill:#555555">V</text>
+			<text transform="translate(27.9329,12.5352)" font-size="4.5" id="text82" style="font-size:4.5px;font-family:DroidSans;fill:#555555">c</text>
+			<text transform="translate(30.0168,12.5352)" font-size="4.5" id="text84" style="font-size:4.5px;font-family:DroidSans;fill:#555555">c</text>
+			<text font-size="4.5" id="text94" style="font-size:4.5px;font-family:DroidSans;fill:#555555" x="40.7122" y="20.683599">Out</text>
+		</g>
+		<text font-size="6" id="text101" style="font-size:6px;font-family:DroidSans" x="14.656433" y="28.175747">AMC7135
+		</text>
+	</g>
+</svg>
