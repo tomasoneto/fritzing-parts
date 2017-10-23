@@ -3,9 +3,9 @@
   <author>Tomas Oneto</author>
   <version>1</version>
   <title>RGBW LED - 4W</title>
-  <url></url>
   <label>RGBW LED</label>
-  <date>2017-08-26</date>
+  <url></url>
+  <date>lun oct 23 2017</date>
   <description>Power (4W) RGBW LED</description>
   <tags>
     <tag>LED</tag>
@@ -15,29 +15,32 @@
 
   <properties>
     <property name="family">LED</property>
-    <property name="rgb">RGBW</property>
+    <property name="variant">RGBW</property>
     <property name="package">Power</property>
+    <property name="part number"></property>
+    <property name="layer"></property>
+    <property name="rgb">RGBW</property>
     <property name="current">300 mA</property>
   </properties>
 
   <views>
     <iconView>
-      <layers image="icon/RGBW_LED_4_icon.svg">
+      <layers image="icon/RGBW_LED_8_icon.svg">
         <layer layerId="icon"/>
       </layers>
     </iconView>
     <breadboardView>
-      <layers image="breadboard/RGBW_LED_4_breadboard.svg">
+      <layers image="breadboard/RGBW_LED_8_breadboard.svg">
         <layer layerId="breadboard"/>
       </layers>
     </breadboardView>
     <schematicView>
-      <layers image="schematic/RGBW_LED_4_schematic.svg">
+      <layers image="schematic/RGBW_LED_8_schematic.svg">
         <layer layerId="schematic"/>
       </layers>
     </schematicView>
     <pcbView>
-      <layers image="pcb/RGBW_LED_4_pcb.svg">
+      <layers image="pcb/RGBW_LED_8_pcb.svg">
         <layer layerId="copper1"/>
         <layer layerId="silkscreen"/>
       </layers>
@@ -61,7 +64,7 @@
       </views>
     </connector>
 
-    <connector type="male" id="connector2" name="G+">
+    <connector type="male" id="connector2" name="W+">
       <description>W+</description>
       <views>
         <breadboardView>
@@ -76,7 +79,7 @@
       </views>
     </connector>
 
-    <connector type="male" id="connector3" name="G+">
+    <connector type="male" id="connector3" name="R+">
       <description>R+</description>
       <views>
         <breadboardView>
@@ -91,7 +94,7 @@
       </views>
     </connector>
 
-    <connector type="male" id="connector4" name="G+">
+    <connector type="male" id="connector4" name="B+">
       <description>B+</description>
       <views>
         <breadboardView>
@@ -106,7 +109,7 @@
       </views>
     </connector>
 
-    <connector type="male" id="connector5" name="G+">
+    <connector type="male" id="connector5" name="B-">
       <description>B-</description>
       <views>
         <breadboardView>
@@ -121,7 +124,7 @@
       </views>
     </connector>
 
-    <connector type="male" id="connector6" name="G+">
+    <connector type="male" id="connector6" name="R-">
       <description>R-</description>
       <views>
         <breadboardView>
@@ -136,7 +139,7 @@
       </views>
     </connector>
 
-    <connector type="male" id="connector7" name="G+">
+    <connector type="male" id="connector7" name="W-">
       <description>W-</description>
       <views>
         <breadboardView>
@@ -151,7 +154,7 @@
       </views>
     </connector>
 
-    <connector type="male" id="connector8" name="G+">
+    <connector type="male" id="connector8" name="G-">
       <description>G-</description>
       <views>
         <breadboardView>
@@ -167,3 +170,4 @@
     </connector>
 
   </connectors>
+</module>
