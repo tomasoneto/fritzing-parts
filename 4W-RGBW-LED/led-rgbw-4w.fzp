@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<module moduleId="fc5e76d73f534eafb00731a0207cca67" fritzingVersion="0.9.3">
-<author>Tomas Oneto</author>
-<version>1</version>
-<title>RGBW LED - 4W</title>
-<url></url>
-<label>RGBW LED</label>
-<date>2017-08-26</date>
-<description>Power (4W) RGBW LED</description>
-<tags>
-    <tag>LED</tag>
-    <tag>RGBW LED</tag>
-    <tag>fritzing user</tag>
-</tags>
+    <module moduleId="fc5e76d73f534eafb00731a0207cca67" fritzingVersion="0.9.3">
+    <author>Tomas Oneto</author>
+    <version>1</version>
+    <title>RGBW LED - 4W</title>
+    <url></url>
+    <label>RGBW LED</label>
+    <date>2017-08-26</date>
+    <description>Power (4W) RGBW LED</description>
+    <tags>
+        <tag>LED</tag>
+        <tag>RGBW LED</tag>
+        <tag>fritzing user</tag>
+    </tags>
 
-<properties>
-    <property name="family">LED</property>
-    <property name="rgb">RGBW</property>
-    <property name="package">Power</property>
-    <property name="current">300 mA</property>
-</properties>
+    <properties>
+        <property name="family">LED</property>
+        <property name="rgb">RGBW</property>
+        <property name="package">Power</property>
+        <property name="current">300 mA</property>
+    </properties>
 
-<views>
-    <iconView>
-        <layers image="icon/LED-RGBW-4Wicon.svg" >
-            <layer layerId="icon" />
-        </layers>
-    </iconView>
-    <breadboardView fliphorizontal="true" flipvertical="true" >
-        <layers image="breadboard/LED-5mm-blue.svg" >
-            <layer layerId="breadboard" />
-        </layers>
-    </breadboardView>
-    <schematicView>
-        <layers image="schematic/led.svg" >
-            <layer layerId="schematic" />
-        </layers>
-    </schematicView>
-    <pcbView>
-        <layers image="pcb/T1.75_LED.svg" >
-            <layer layerId="copper0" />
-            <layer layerId="copper1" />
-            <layer layerId="silkscreen" />
-        </layers>
-    </pcbView>
-</views>
+    <views>
+        <iconView>
+            <layers image="icon/LED-RGBW-4Wicon.svg" >
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/LED-5mm-blue.svg" >
+                <layer layerId="breadboard" />
+            </layers>
+        </breadboardView>
+        <schematicView>
+            <layers image="schematic/led.svg" >
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+        <pcbView>
+            <layers image="pcb/T1.75_LED.svg" >
+                <layer layerId="copper0" />
+                <layer layerId="copper1" />
+                <layer layerId="silkscreen" />
+            </layers>
+        </pcbView>
+    </views>
