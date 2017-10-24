@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0px" viewBox="0 0 57.643 71.833" version="1.2" gorn="0" y="0px" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="71.833px" width="57.643px" id="Layer_1" >
+    <desc>
+        <referenceFile>RGBW_LED_8_schematic.svg</referenceFile>
+    </desc>
+    <metadata id="metadata111" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs109" />
+    <g gorn="0.2" id="schematic" >
+        <rect x="7.1999998" gorn="0.2.0" y="7.1999998" height="57.598999" width="43.199001" id="part_symbol"  style="fill:#ffffff;stroke:#000000;stroke-width:0.90020001;stroke-linecap:round"/>
+        <g gorn="0.2.1" id="pins" >
+            <line y2="21.6" gorn="0.2.1.0" x1="0" y1="21.6" id="connector1pin"  x2="7.1999998" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+            <line y2="28.799999" gorn="0.2.1.1" x1="0" y1="28.799999" id="connector2pin"  x2="7.1999998" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+            <line y2="36" gorn="0.2.1.2" x1="0" y1="36" id="connector3pin"  x2="7.1999998" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+            <line y2="43.200001" gorn="0.2.1.3" x1="0" y1="43.200001" id="connector4pin"  x2="7.1999998" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+            <line y2="43.200001" gorn="0.2.1.4" x1="50.401001" y1="43.200001" id="connector5pin"  x2="57.599998" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+            <line y2="36" gorn="0.2.1.5" x1="50.401001" y1="36" id="connector6pin"  x2="57.599998" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+            <line y2="28.799999" gorn="0.2.1.6" x1="50.401001" y1="28.799999" id="connector7pin"  x2="57.599998" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+            <line y2="21.604" gorn="0.2.1.7" x1="50.401001" y1="21.6" id="connector8pin"  x2="57.599998" style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"/>
+        </g>
+        <g gorn="0.2.2" id="pin_numbers" >
+            <g transform="translate(2.7742,20.0605)" >
+                <text font-size="3" gorn="0.2.2.0.0" id="text53"  style="font-size:3px;font-family:DroidSans;fill:#555555">1</text>
+            </g>
+            <g transform="translate(2.7742,27.1855)" >
+                <text font-size="3" gorn="0.2.2.1.0" id="text59"  style="font-size:3px;font-family:DroidSans;fill:#555555">2</text>
+            </g>
+            <g transform="translate(2.7742,34.6855)" >
+                <text font-size="3" gorn="0.2.2.2.0" id="text61"  style="font-size:3px;font-family:DroidSans;fill:#555555">3</text>
+            </g>
+            <g transform="translate(2.7742,41.811)" >
+                <text font-size="3" gorn="0.2.2.3.0" id="text63"  style="font-size:3px;font-family:DroidSans;fill:#555555">4</text>
+            </g>
+            <g transform="translate(53.1409,41.811)" >
+                <text font-size="3" gorn="0.2.2.4.0" id="text67"  style="font-size:3px;font-family:DroidSans;fill:#555555">5</text>
+            </g>
+            <g transform="translate(53.1409,34.6855)" >
+                <text font-size="3" gorn="0.2.2.5.0" id="text65"  style="font-size:3px;font-family:DroidSans;fill:#555555">6</text>
+            </g>
+            <g transform="translate(53.1409,27.4492)" >
+                <text font-size="3" gorn="0.2.2.6.0" id="text51"  style="font-size:3px;font-family:DroidSans;fill:#555555">7</text>
+            </g>
+            <g transform="translate(53.1409,20.1543)" >
+                <text font-size="3" gorn="0.2.2.7.0" id="text49"  style="font-size:3px;font-family:DroidSans;fill:#555555">8</text>
+            </g>
+        </g>
+        <g gorn="0.2.3" id="pin_labels" >
+            <g transform="translate(9.2595,22.6836)" >
+                <text font-size="4.5" gorn="0.2.3.0.0" id="text86"  style="font-size:4.5px;font-family:DroidSans;fill:#555555">G+</text>
+            </g>
+            <g transform="translate(9.2595,29.9863)" >
+                <text font-size="4.5" gorn="0.2.3.1.0" id="text88"  style="font-size:4.5px;font-family:DroidSans;fill:#555555">W+</text>
+            </g>
+            <g transform="translate(9.2595,37.0688)" >
+                <text font-size="4.5" gorn="0.2.3.2.0" id="text90"  style="font-size:4.5px;font-family:DroidSans;fill:#555555">R+</text>
+            </g>
+            <g transform="translate(9.2595,44.3716)" >
+                <text font-size="4.5" gorn="0.2.3.3.0" id="text92"  style="font-size:4.5px;font-family:DroidSans;fill:#555555">B+</text>
+            </g>
+            <g transform="translate(40.7122,44.3716)" >
+                <text font-size="4.5" gorn="0.2.3.4.0" id="text72"  style="font-size:4.5px;font-family:DroidSans;fill:#555555">B-</text>
+            </g>
+            <g transform="translate(40.7122,37.0688)" >
+                <text font-size="4.5" gorn="0.2.3.5.0" id="text70"  style="font-size:4.5px;font-family:DroidSans;fill:#555555">R-</text>
+            </g>
+            <g transform="translate(40.7122,29.9863)" >
+                <text font-size="4.5" gorn="0.2.3.6.0" id="text96"  style="font-size:4.5px;font-family:DroidSans;fill:#555555">W-</text>
+            </g>
+            <g transform="translate(40.7122,22.6836)" >
+                <text font-size="4.5" gorn="0.2.3.7.0" id="text94"  style="font-size:4.5px;font-family:DroidSans;fill:#555555">G-</text>
+            </g>
+        </g>
+        <text x="19.072937" font-size="6" gorn="0.2.4" y="21.4189" id="text101"  style="font-size:6px;font-family:DroidSans">RGBW</text>
+        <text x="22.623718" font-size="6" gorn="0.2.5" y="28.619101" id="text103"  style="font-size:6px;font-family:DroidSans">LED</text>
+    </g>
+</svg>
